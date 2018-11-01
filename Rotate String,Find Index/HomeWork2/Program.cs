@@ -10,6 +10,7 @@ namespace HomeWork2
             {
                 for (int j = i+1; j < array.Length; j++)
                 {
+
                     if (inputValue == (array[i] + array[j]))
                     {
                         Console.ForegroundColor = ConsoleColor.Green;
