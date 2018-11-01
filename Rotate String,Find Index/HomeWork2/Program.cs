@@ -13,7 +13,7 @@ namespace HomeWork2
                     if (inputValue == (array[i] + array[j]))
                     {
                         Console.ForegroundColor = ConsoleColor.Green;
-                        Console.Write($"index {i}__Value{array[i]},index {j}__Value{array[j]}\n");
+                        Console.Write($"index {i}__Value{array[i]},index {j}__Value{array[j]}\n"); 
                        
                     }
                 }
