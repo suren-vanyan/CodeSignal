@@ -24,6 +24,7 @@ namespace CommonCharacterCount
 
             return count;
         }
+
         // Given two strings, find the number of common characters between them.
         static void Main(string[] args)
         {
