@@ -8,6 +8,7 @@ namespace palindromeRearranging
         static void Main(string[] args)
         {
             string str = "abbcabb";
+            Console.WriteLine(str.Distinct().Any(c => str.Count(x => x == c) % 2 != 0));
             Console.WriteLine(palindromeRearranging(str));
         }
 
