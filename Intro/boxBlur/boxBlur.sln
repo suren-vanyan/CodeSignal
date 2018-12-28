@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "boxBlur", "boxBlur\boxBlur.csproj", "{053F2015-E58F-4F57-9D5A-76317B10771F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{053F2015-E58F-4F57-9D5A-76317B10771F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{053F2015-E58F-4F57-9D5A-76317B10771F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{053F2015-E58F-4F57-9D5A-76317B10771F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{053F2015-E58F-4F57-9D5A-76317B10771F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EF04CF7-D1F1-430C-8AAF-55A503665A5D}
+	EndGlobalSection
+EndGlobal
