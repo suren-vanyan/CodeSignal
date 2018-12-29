@@ -18,24 +18,28 @@ namespace CodeSignal
 
         static bool chessBoardCellColor(string cell1, string cell2)
         {
-            var cell1Number = int.Parse(cell1[1].ToString());
-            var cell2Number = int.Parse(cell2[1].ToString());
+            var sum1 = cell1.Sum(i => i);
+            var sum2 = cell2.Sum(i => i);
+            return sum1 % 2 == sum2 % 2;
 
-            char[] LetterGroup1 = { 'A', 'C', 'E', 'G' };
-            char[] LetterGroup2 = { 'B', 'D', 'F', 'H' };
+            //var cell1Number = int.Parse(cell1[1].ToString());
+            //var cell2Number = int.Parse(cell2[1].ToString());
 
-            if (LetterGroup1.Contains(cell1[0]) && LetterGroup1.Contains(cell2[0]))
-            {
-                return cell1Number % 2 == cell2Number % 2;
-            }
-            else if (LetterGroup2.Contains(cell1[0]) && LetterGroup2.Contains(cell2[0]))
-            {
-                return cell1Number % 2 == cell2Number % 2;
-            }
-            else
-            {
-                return cell1Number % 2 != cell2Number % 2;
-            }
+            //char[] LetterGroup1 = { 'A', 'C', 'E', 'G' };
+            //char[] LetterGroup2 = { 'B', 'D', 'F', 'H' };
+
+            //if (LetterGroup1.Contains(cell1[0]) && LetterGroup1.Contains(cell2[0]))
+            //{
+            //    return cell1Number % 2 == cell2Number % 2;
+            //}
+            //else if (LetterGroup2.Contains(cell1[0]) && LetterGroup2.Contains(cell2[0]))
+            //{
+            //    return cell1Number % 2 == cell2Number % 2;
+            //}
+            //else
+            //{
+            //    return cell1Number % 2 != cell2Number % 2;
+            //}
         }
 
     }
