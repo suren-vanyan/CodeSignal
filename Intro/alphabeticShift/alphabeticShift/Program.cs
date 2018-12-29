@@ -4,6 +4,7 @@ using System.Text.RegularExpressions;
 
 namespace CodeSignal
 {
+    //Given a string, replace each its character by the next one in the English alphabet(z would be replaced by a).
     class Program
     {
         static void Main(string[] args)
