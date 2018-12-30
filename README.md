@@ -7,7 +7,7 @@
 
 # CodeSignal Arcade Solutions
 
-# [Intro](:fast_forward: https://github.com/suren-vanyan/CodeSignal/tree/master/Intro)
+# :fast_forward: [Intro]( https://github.com/suren-vanyan/CodeSignal/tree/master/Intro)
 
 
 
