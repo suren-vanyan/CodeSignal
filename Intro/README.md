@@ -9,7 +9,7 @@
 |[variableName]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/variableName/variableName/Program.cs)|[alphabeticShift]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/alphabeticShift/alphabeticShift/Program.cs)
 |[chessBoardCellColor]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/chessBoardCellColor/chessBoardCellColor/Program.cs)|[depositProfit]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/depositProfit/depositProfit/Program.cs)
 |[areSimilar]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/AreSimilar/AreSimilar/Program.cs)|
-#[depositProfit]|[Program.cs]()
+# [depositProfit]|[Program.cs]()
 
 
 
