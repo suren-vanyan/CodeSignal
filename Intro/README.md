@@ -1,9 +1,10 @@
 # Intro 
 ## [The Journey Begins](https://github.com/Lintik/CodeFights-Arcade/tree/master/Intro/The%20Journey%20Begins)
 
-|Problem Statement|c++|python|java|c#|javascript|
-|---|---|---|---|---|---|
-|[add](https://github.com/Lintik/Arcade/blob/master/Intro/The%20Journey%20Begins/Add/README.md)|[code.cpp](https://github.com/Lintik/Arcade/blob/master/Intro/The%20Journey%20Begins/Add/code.cpp)|[code.py3](https://github.com/Lintik/Arcade/blob/master/Intro/The%20Journey%20Begins/Add/code.py3)|[code.java](https://github.com/Lintik/Arcade/blob/master/Intro/The%20Journey%20Begins/Add/code.java)|[code.cs](https://github.com/Lintik/Arcade/blob/master/Intro/The%20Journey%20Begins/Add/code.cs)|[code.js](https://github.com/Lintik/Arcade/blob/master/Intro/The%20Journey%20Begins/Add/code.js)|
+|Problem Statement|c#|
+|---|
+|[AllLongestString](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/AllLongestString/AllLongestString/Program.cs)[Program.cs]
+|[isLucky](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/isLucky/ConsoleApp1/Program.cs)|[Program.cs]
 |[centuryFromYear](https://github.com/Lintik/Arcade/blob/master/Intro/The%20Journey%20Begins/centuryFromYear/README.md)|[code.cpp](https://github.com/Lintik/Arcade/blob/master/Intro/The%20Journey%20Begins/centuryFromYear/code.cpp)|[code.py3](https://github.com/Lintik/Arcade/blob/master/Intro/The%20Journey%20Begins/centuryFromYear/code.py3)|[code.java](https://github.com/Lintik/Arcade/blob/master/Intro/The%20Journey%20Begins/centuryFromYear/code.java)|[code.cs](https://github.com/Lintik/Arcade/blob/master/Intro/The%20Journey%20Begins/centuryFromYear/code.cs)|[code.js](https://github.com/Lintik/Arcade/blob/master/Intro/The%20Journey%20Begins/centuryFromYear/code.js)|
 |[checkPalindrome](https://github.com/Lintik/Arcade/blob/master/Intro/The%20Journey%20Begins/checkPalindrome/README.md)|[code.cpp](https://github.com/Lintik/Arcade/blob/master/Intro/The%20Journey%20Begins/checkPalindrome/code.cpp)|[code.py3](https://github.com/Lintik/Arcade/blob/master/Intro/The%20Journey%20Begins/checkPalindrome/code.py3)|[code.java](https://github.com/Lintik/Arcade/blob/master/Intro/The%20Journey%20Begins/checkPalindrome/code.java)|[code.cs](https://github.com/Lintik/Arcade/blob/master/Intro/The%20Journey%20Begins/checkPalindrome/code.cs)|[code.js](https://github.com/Lintik/Arcade/blob/master/Intro/The%20Journey%20Begins/checkPalindrome/code.js)|
 
