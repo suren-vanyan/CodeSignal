@@ -7,6 +7,8 @@
 |[isIPv4Address]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/isIPv4Address/areEquallyStrong/Program.cs)|[avoidObstacles]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/avoidObstacles/avoidObstacles/Program.cs)
 |[boxBlur]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/boxBlur/boxBlur/Program.cs)|[minesweeper]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/minesweeper/minesweeper/Program.cs)
 |[variableName]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/variableName/variableName/Program.cs)|[alphabeticShift]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/alphabeticShift/alphabeticShift/Program.cs)
+|[chessBoardCellColor]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/chessBoardCellColor/chessBoardCellColor/Program.cs)|[depositProfit]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/depositProfit/depositProfit/Program.cs)
+
 
 
 
