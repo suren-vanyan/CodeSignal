@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "depositProfit", "depositProfit\depositProfit.csproj", "{2B1D17DB-5D45-4C95-BFFB-2E1F95CAA4B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B1D17DB-5D45-4C95-BFFB-2E1F95CAA4B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B1D17DB-5D45-4C95-BFFB-2E1F95CAA4B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B1D17DB-5D45-4C95-BFFB-2E1F95CAA4B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B1D17DB-5D45-4C95-BFFB-2E1F95CAA4B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EBDFF09-EE49-4CA9-8E62-78F4222E703E}
+	EndGlobalSection
+EndGlobal
