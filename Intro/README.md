@@ -1,8 +1,11 @@
 # Intro 
-[AllLongestString](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/AllLongestString/AllLongestString/Program.cs[Program.cs]
-[isLucky](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/isLucky/ConsoleApp1/Program.cs)|[Program.cs]
-[centuryFromYear](https://github.com/Lintik/Arcade/blob/master/Intro/The%20Journey%20Begins/centuryFromYear/README.md)|[code.cpp](https://github.com/Lintik/Arcade/blob/master/Intro/The%20Journey%20Begins/centuryFromYear/code.cpp)|[code.py3](https://github.com/Lintik/Arcade/blob/master/Intro/The%20Journey%20Begins/centuryFromYear/code.py3)|[code.java](https://github.com/Lintik/Arcade/blob/master/Intro/The%20Journey%20Begins/centuryFromYear/code.java)|[code.cs](https://github.com/Lintik/Arcade/blob/master/Intro/The%20Journey%20Begins/centuryFromYear/code.cs)|[code.js](https://github.com/Lintik/Arcade/blob/master/Intro/The%20Journey%20Begins/centuryFromYear/code.js)|
-[checkPalindrome](https://github.com/Lintik/Arcade/blob/master/Intro/The%20Journey%20Begins/checkPalindrome/README.md)|[code.cpp](https://github.com/Lintik/Arcade/blob/master/Intro/The%20Journey%20Begins/checkPalindrome/code.cpp)|[code.py3](https://github.com/Lintik/Arcade/blob/master/Intro/The%20Journey%20Begins/checkPalindrome/code.py3)|[code.java](https://github.com/Lintik/Arcade/blob/master/Intro/The%20Journey%20Begins/checkPalindrome/code.java)|[code.cs](https://github.com/Lintik/Arcade/blob/master/Intro/The%20Journey%20Begins/checkPalindrome/code.cs)|[code.js](https://github.com/Lintik/Arcade/blob/master/Intro/The%20Journey%20Begins/checkPalindrome/code.js)|
+## [Edge of the Ocean](https://github.com/Lintik/CodeFights-Arcade/tree/master/Intro/Edge%20of%20the%20Ocean)
+|Problem Statement|C#|
+|---|---|
+[AllLongestString](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/AllLongestString/AllLongestString/Program.cs)|\\|\\[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/AllLongestString/AllLongestString/Program.cs)
+
+
+
 
 ## [Edge of the Ocean](https://github.com/Lintik/CodeFights-Arcade/tree/master/Intro/Edge%20of%20the%20Ocean)
 
