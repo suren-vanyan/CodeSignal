@@ -5,7 +5,7 @@
 
 
 
-# Code Fights Arcade Solutions
+# CodeSignal Arcade Solutions
 
 # [Intro](https://github.com/suren-vanyan/CodeSignal/tree/master/Intro)
 
