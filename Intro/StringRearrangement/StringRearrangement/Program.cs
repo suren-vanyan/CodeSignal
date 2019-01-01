@@ -1,15 +1,19 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Collections;
 
-namespace StringRearrangement
+namespace absoluteValuesSumMinimization
 {
+    //Given an array of equal-length strings, 
+    //check if it is possible to rearrange the strings
+    //in such a way that after the rearrangement the strings
+    //at consecutive positions would differ by exactly one character.
     class Program
     {
-
         static void Main(string[] args)
         {
-            string[] inputArray = { "zzzzab", "zzzzbb", "zzzzaa" };          
+            string[] inputArray = { "ab", "bb", "aa" };
             Console.WriteLine(stringsRearrangement(inputArray));
         }
 
@@ -17,14 +21,17 @@ namespace StringRearrangement
         {
             List<string> array = new List<string>();
             foreach (var item in inputArray) array.Add(item);
-
+            bool result = false;
             Transposition(new List<string>(), array);
-            foreach (var item in resultTransposition)
+            foreach (List<string> item in resultTransposition)
             {
-                bool result = checkString(item);
-                //if (temp != 1) return false;
+                if (checkString(item))
+                {
+                    result = true;
+                }
+
             }
-            return true;
+            return result;
         }
 
         static bool checkString(List<string> arr)
@@ -36,7 +43,7 @@ namespace StringRearrangement
                 string b = arr[i + 1];
                 for (int j = 0; j < arr[0].Length; j++)
                 {
-                    if (a[j]!=b[j])
+                    if (a[j] != b[j])
                         count++;
                 }
                 if (count != 1)
@@ -45,6 +52,7 @@ namespace StringRearrangement
 
             return true;
         }
+
         static List<List<string>> resultTransposition = new List<List<string>>();
         static void Transposition(List<string> newArr, List<string> oldArr)
         {
