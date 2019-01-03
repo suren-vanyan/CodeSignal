@@ -11,6 +11,10 @@
 |[areSimilar]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/AreSimilar/AreSimilar/Program.cs)|[absoluteValuesSumMinimization]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/absoluteValuesSumMinimization/absoluteValuesSumMinimization/Program.cs)
 |[StringRearrangement]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/StringRearrangement/StringRearrangement/Program.cs)|[absoluteValuesSumMinimization]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/absoluteValuesSumMinimization/absoluteValuesSumMinimization/Program.cs)
 
-
+# Diving Deeper
+|Problem Statement|C#|
+|---|---|
+|[extractEachKth]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/extractEachKth/extractEachKth/Program.cs)
+|[firstDigit]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/firstDigit/firstDigit/Program.cs)
 
 
