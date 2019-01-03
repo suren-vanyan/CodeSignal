@@ -1,4 +1,8 @@
-# Intro 
+# :large_blue_diamond: Intro 
+## :small_blue_diamond: The Journey Begins :small_blue_diamond:Edge of the Ocean :small_blue_diamond:Smooth Sailing
+## :small_blue_diamond: Exploring the Waters :small_blue_diamond:Island of Knowledge :small_blue_diamond:Rains of Reason
+##  :small_blue_diamond: Through the Fog
+
 |Problem Statement|C#|Problem Statement|C#|
 |---|---|---|---|
 |[AllLongestString]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/AllLongestString/AllLongestString/Program.cs)|[CommonCharacterCount]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/CommonCharacterCount/CommonCharacterCount/Program.cs)
@@ -11,7 +15,7 @@
 |[areSimilar]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/AreSimilar/AreSimilar/Program.cs)|[absoluteValuesSumMinimization]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/absoluteValuesSumMinimization/absoluteValuesSumMinimization/Program.cs)
 |[StringRearrangement]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/StringRearrangement/StringRearrangement/Program.cs)|[absoluteValuesSumMinimization]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/absoluteValuesSumMinimization/absoluteValuesSumMinimization/Program.cs)
 
-# Diving Deeper
+## :small_blue_diamond: Diving Deeper
 |Problem Statement|C#|
 |---|---|
 |[extractEachKth]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/extractEachKth/extractEachKth/Program.cs)
