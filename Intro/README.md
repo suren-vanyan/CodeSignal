@@ -27,4 +27,6 @@
 |----|----|
 |[growingPlant]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/growingPlant/growingPlant/Program.cs)
 |[knapsackLight]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/knapsackLight/knapsackLight/Program.cs)
+|[longestDigitsPrefix]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/longestDigitsPrefix_AND_digitDegree/longestDigitsPrefix_AND_digitDegree/Program.cs)
+|[digitDegree]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/longestDigitsPrefix_AND_digitDegree/longestDigitsPrefix_AND_digitDegree/Program.cs)
 
