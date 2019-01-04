@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "longestDigitsPrefix_AND_digitDegree", "longestDigitsPrefix_AND_digitDegree\longestDigitsPrefix_AND_digitDegree.csproj", "{99867B7C-820B-4E9C-B0B4-76E2E067624B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99867B7C-820B-4E9C-B0B4-76E2E067624B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99867B7C-820B-4E9C-B0B4-76E2E067624B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99867B7C-820B-4E9C-B0B4-76E2E067624B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99867B7C-820B-4E9C-B0B4-76E2E067624B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EC1C80B-82A3-4091-AFA9-65F53BE68E05}
+	EndGlobalSection
+EndGlobal
