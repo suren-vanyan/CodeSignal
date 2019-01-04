@@ -1,7 +1,7 @@
 # :large_blue_diamond: Intro 
-## :small_blue_diamond: The Journey Begins :small_blue_diamond:Edge of the Ocean :small_blue_diamond:Smooth Sailing
-## :small_blue_diamond: Exploring the Waters :small_blue_diamond:Island of Knowledge :small_blue_diamond:Rains of Reason
-##  :small_blue_diamond: Through the Fog
+## :small_orange_diamond: The Journey Begins :small_orange_diamond:Edge of the Ocean :small_orange_diamond:Smooth Sailing
+## :small_orange_diamond: Exploring the Waters :small_orange_diamond:Island of Knowledge :small_orange_diamond:Rains of Reason
+##  :small_orange_diamond: Through the Fog
 
 |Problem Statement|C#|Problem Statement|C#|
 |---|---|---|---|
@@ -15,10 +15,16 @@
 |[areSimilar]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/AreSimilar/AreSimilar/Program.cs)|[absoluteValuesSumMinimization]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/absoluteValuesSumMinimization/absoluteValuesSumMinimization/Program.cs)
 |[StringRearrangement]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/StringRearrangement/StringRearrangement/Program.cs)|[absoluteValuesSumMinimization]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/absoluteValuesSumMinimization/absoluteValuesSumMinimization/Program.cs)
 
-## :small_blue_diamond: Diving Deeper
+## :small_orange_diamond: Diving Deeper
 |Problem Statement|C#|
 |---|---|
 |[extractEachKth]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/extractEachKth/extractEachKth/Program.cs)
 |[firstDigit]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/firstDigit/firstDigit/Program.cs)
+|[arrayMaxConsecutiveSum]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/arrayMaxConsecutiveSum/arrayMaxConsecutiveSum/Program.cs)
 
+## :small_orange_diamond: Dark Wilderness
+|Problem Statement|C#|
+|----|----|
+|[extractEachKth]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/extractEachKth/extractEachKth/Program.cs)
+|[firstDigit]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/firstDigit/firstDigit/Program.cs)
 
