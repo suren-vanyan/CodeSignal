@@ -24,4 +24,7 @@
 
 ## :small_orange_diamond: Dark Wilderness
 |Problem Statement|C#|
+|----|----|
+|[extractEachKth]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/extractEachKth/extractEachKth/Program.cs)
+|[firstDigit]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/firstDigit/firstDigit/Program.cs)
 
