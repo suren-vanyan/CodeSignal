@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "knapsackLight", "knapsackLight\knapsackLight.csproj", "{EAE85398-0DE3-495D-824A-92EAA8BCA446}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAE85398-0DE3-495D-824A-92EAA8BCA446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE85398-0DE3-495D-824A-92EAA8BCA446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE85398-0DE3-495D-824A-92EAA8BCA446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE85398-0DE3-495D-824A-92EAA8BCA446}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8166D8AC-BF39-48DA-8B61-945B581336FF}
+	EndGlobalSection
+EndGlobal
