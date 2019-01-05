@@ -29,4 +29,9 @@
 |[knapsackLight]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/knapsackLight/knapsackLight/Program.cs)
 |[longestDigitsPrefix]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/longestDigitsPrefix_AND_digitDegree/longestDigitsPrefix_AND_digitDegree/Program.cs)
 |[digitDegree]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/longestDigitsPrefix_AND_digitDegree/longestDigitsPrefix_AND_digitDegree/Program.cs)
+|[bishopAndPawn]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/bishopAndPawn/bishopAndPawn/Program.cs)
 
+## :small_orange_diamond: Eruption of Light
+|Problem Statement|C#|
+|----|----|
+|[isBeautifulString]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/isBeautifulString/isBeautifulString/Program.cs)
