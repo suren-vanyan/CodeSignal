@@ -43,5 +43,6 @@
 |----|----|
 |[IsDigit]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/isDigit/isDigit/Program.cs)
 |[lineEncoding]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/lineEncoding/lineEncoding/Program.cs)
-|[electionsWinners]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/electionsWinners/electionsWinners/Program.cs)
-Rainbow of Clarity
+|[chessKnight]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/chessKnight/chessKnight/Program.cs)
+|[deleteDigit]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/chessKnight/chessKnight/Program.cs)
+
