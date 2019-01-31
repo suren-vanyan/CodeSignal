@@ -37,3 +37,11 @@
 |[isBeautifulString]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/isBeautifulString/isBeautifulString/Program.cs)
 |[buildPalindrome]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/buildPalindrome/buildPalindrome/Program.cs)
 |[electionsWinners]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/electionsWinners/electionsWinners/Program.cs)
+
+## :small_orange_diamond: Rainbow of Clarity
+|Problem Statement|C#|
+|----|----|
+|[IsDigit]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/isDigit/isDigit/Program.cs)
+|[buildPalindrome]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/buildPalindrome/buildPalindrome/Program.cs)
+|[electionsWinners]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/electionsWinners/electionsWinners/Program.cs)
+Rainbow of Clarity
