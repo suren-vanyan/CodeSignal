@@ -42,6 +42,6 @@
 |Problem Statement|C#|
 |----|----|
 |[IsDigit]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/isDigit/isDigit/Program.cs)
-|[buildPalindrome]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/buildPalindrome/buildPalindrome/Program.cs)
+|[lineEncoding]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/lineEncoding/lineEncoding/Program.cs)
 |[electionsWinners]()|[Program.cs](https://github.com/suren-vanyan/CodeSignal/blob/master/Intro/electionsWinners/electionsWinners/Program.cs)
 Rainbow of Clarity
